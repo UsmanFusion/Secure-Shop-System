@@ -1,0 +1,2 @@
+ahmad,product promotion,2500.00
+khalid,product promotion,2000.00

@@ -1,0 +1,5 @@
+Username: ahmad, Product ID: 103, Product Name: Mug, Quantity: 2, Price: $5.00, Total: $10.00
+Username: ahmad, Product ID: 104, Product Name: Laptop, Quantity: 2, Price: $800.00, Total: $1600.00
+Username: ahmad, Product ID: 105, Product Name: Ear-buds, Quantity: 3, Price: $20.00, Total: $60.00
+Total Order Amount: $1419.50
+--------------------------------------------------

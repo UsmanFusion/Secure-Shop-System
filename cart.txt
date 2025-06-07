@@ -1,0 +1,3 @@
+103,Mug,Kitchen,2,5$
+104,Laptop,Electronics,2,800$
+105,Ear-buds,Mobile,3,20$
